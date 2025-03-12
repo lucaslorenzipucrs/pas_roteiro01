@@ -7,4 +7,4 @@ public class App {
     System.out.println("Agora alterado no Codespace\n");
     }
    }
-// Conflito de codigo
+//unificando os codigos
